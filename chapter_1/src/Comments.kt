@@ -1,6 +1,6 @@
 fun main() {
 
-    //this is a comment on a single line
+    //this is single line comment
 
     println("Hello World!")
 
